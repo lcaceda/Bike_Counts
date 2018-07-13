@@ -1,0 +1,396 @@
+count_date,count_type,direction_of_travel,station_id,description,total_count,maxtempi,precipi,maxwspdi,rain,fog,snow,thunder,summary_date,dow,month,season
+11/17/14,2,1,B11,Westside Beltline (Northbound),0,53,1.37,24,1,0,0,0,11/17/14,1,11,3
+11/17/14,2,2,B11,Westside Beltline (Southbound),0,53,1.37,24,1,0,0,0,11/17/14,1,11,3
+11/16/14,2,1,B11,Westside Beltline (Northbound),2,50,1.18,14,1,0,0,1,11/16/14,0,11,3
+11/16/14,2,2,B11,Westside Beltline (Southbound),1,50,1.18,14,1,0,0,1,11/16/14,0,11,3
+11/15/14,2,1,B11,Westside Beltline (Northbound),1,48,0,12,0,0,0,0,11/15/14,6,11,3
+11/15/14,2,2,B11,Westside Beltline (Southbound),3,48,0,12,0,0,0,0,11/15/14,6,11,3
+11/14/14,2,1,B11,Westside Beltline (Northbound),2,44,0,20,0,0,0,0,11/14/14,5,11,3
+11/14/14,2,2,B11,Westside Beltline (Southbound),2,44,0,20,0,0,0,0,11/14/14,5,11,3
+11/13/14,2,2,B11,Westside Beltline (Southbound),2,47,0,22,0,0,0,0,11/13/14,4,11,3
+11/13/14,2,1,B11,Westside Beltline (Northbound),2,47,0,22,0,0,0,0,11/13/14,4,11,3
+11/12/14,2,2,B11,Westside Beltline (Southbound),7,65,0,15,0,0,0,0,11/12/14,3,11,3
+11/12/14,2,1,B11,Westside Beltline (Northbound),4,65,0,15,0,0,0,0,11/12/14,3,11,3
+11/11/14,2,2,B11,Westside Beltline (Southbound),1,71,0,10,0,0,0,0,11/11/14,2,11,3
+11/11/14,2,1,B11,Westside Beltline (Northbound),1,71,0,10,0,0,0,0,11/11/14,2,11,3
+11/10/14,2,2,B11,Westside Beltline (Southbound),3,70,0,10,0,0,0,0,11/10/14,1,11,3
+11/10/14,2,1,B11,Westside Beltline (Northbound),1,70,0,10,0,0,0,0,11/10/14,1,11,3
+11/9/14,2,1,B11,Westside Beltline (Northbound),3,68,0,13,0,0,0,0,11/9/14,0,11,3
+11/9/14,2,2,B11,Westside Beltline (Southbound),5,68,0,13,0,0,0,0,11/9/14,0,11,3
+11/8/14,2,2,B11,Westside Beltline (Southbound),3,61,0,9,0,0,0,0,11/8/14,6,11,3
+11/8/14,2,1,B11,Westside Beltline (Northbound),4,61,0,9,0,0,0,0,11/8/14,6,11,3
+11/7/14,2,2,B11,Westside Beltline (Southbound),5,59,0,17,0,0,0,0,11/7/14,5,11,3
+11/7/14,2,1,B11,Westside Beltline (Northbound),4,59,0,17,0,0,0,0,11/7/14,5,11,3
+11/6/14,2,2,B11,Westside Beltline (Southbound),1,71,0.08,26,1,0,0,0,11/6/14,4,11,3
+11/6/14,2,1,B11,Westside Beltline (Northbound),6,71,0.08,26,1,0,0,0,11/6/14,4,11,3
+11/5/14,2,2,B11,Westside Beltline (Southbound),1,68,0,8,0,0,0,0,11/5/14,3,11,3
+11/5/14,2,1,B11,Westside Beltline (Northbound),3,68,0,8,0,0,0,0,11/5/14,3,11,3
+11/4/14,2,1,B11,Westside Beltline (Northbound),0,69,0,9,0,0,0,0,11/4/14,2,11,3
+11/4/14,2,2,B11,Westside Beltline (Southbound),3,69,0,9,0,0,0,0,11/4/14,2,11,3
+11/3/14,2,1,B11,Westside Beltline (Northbound),3,66,0,8,0,0,0,0,11/3/14,1,11,3
+11/3/14,2,2,B11,Westside Beltline (Southbound),3,66,0,8,0,0,0,0,11/3/14,1,11,3
+11/2/14,2,1,B11,Westside Beltline (Northbound),2,57,0,18,0,0,0,0,11/2/14,0,11,3
+11/2/14,2,2,B11,Westside Beltline (Southbound),1,57,0,18,0,0,0,0,11/2/14,0,11,3
+11/1/14,2,2,B11,Westside Beltline (Southbound),2,46,T,30,0,0,0,0,11/1/14,6,11,3
+11/1/14,2,1,B11,Westside Beltline (Northbound),1,46,T,30,0,0,0,0,11/1/14,6,11,3
+10/31/14,2,1,B11,Westside Beltline (Northbound),2,62,0.04,30,1,0,0,0,10/31/14,5,10,3
+10/31/14,2,2,B11,Westside Beltline (Southbound),1,62,0.04,30,1,0,0,0,10/31/14,5,10,3
+10/30/14,2,2,B11,Westside Beltline (Southbound),10,67,0,10,0,0,0,0,10/30/14,4,10,3
+10/30/14,2,1,B11,Westside Beltline (Northbound),8,67,0,10,0,0,0,0,10/30/14,4,10,3
+10/29/14,2,2,B11,Westside Beltline (Southbound),3,70,0.07,16,1,0,0,0,10/29/14,3,10,3
+10/29/14,2,1,B11,Westside Beltline (Northbound),3,70,0.07,16,1,0,0,0,10/29/14,3,10,3
+10/28/14,2,1,B11,Westside Beltline (Northbound),4,76,0,15,0,1,0,0,10/28/14,2,10,3
+10/28/14,2,2,B11,Westside Beltline (Southbound),4,76,0,15,0,1,0,0,10/28/14,2,10,3
+10/27/14,2,1,B11,Westside Beltline (Northbound),5,84,0,7,0,1,0,0,10/27/14,1,10,3
+10/27/14,2,2,B11,Westside Beltline (Southbound),5,84,0,7,0,1,0,0,10/27/14,1,10,3
+10/26/14,2,2,B11,Westside Beltline (Southbound),1,82,0,13,0,0,0,0,10/26/14,0,10,3
+10/26/14,2,1,B11,Westside Beltline (Northbound),3,82,0,13,0,0,0,0,10/26/14,0,10,3
+10/25/14,2,2,B11,Westside Beltline (Southbound),5,76,0,13,0,0,0,0,10/25/14,6,10,3
+10/25/14,2,1,B11,Westside Beltline (Northbound),2,76,0,13,0,0,0,0,10/25/14,6,10,3
+10/24/14,2,2,B11,Westside Beltline (Southbound),4,73,0,9,0,0,0,0,10/24/14,5,10,3
+10/24/14,2,1,B11,Westside Beltline (Northbound),3,73,0,9,0,0,0,0,10/24/14,5,10,3
+10/23/14,2,2,B11,Westside Beltline (Southbound),3,70,0,12,0,0,0,0,10/23/14,4,10,3
+10/23/14,2,1,B11,Westside Beltline (Northbound),2,70,0,12,0,0,0,0,10/23/14,4,10,3
+10/22/14,2,2,B11,Westside Beltline (Southbound),4,70,0,15,0,0,0,0,10/22/14,3,10,3
+10/22/14,2,1,B11,Westside Beltline (Northbound),4,70,0,15,0,0,0,0,10/22/14,3,10,3
+10/21/14,2,2,B11,Westside Beltline (Southbound),2,74,0,17,0,0,0,0,10/21/14,2,10,3
+10/21/14,2,1,B11,Westside Beltline (Northbound),2,74,0,17,0,0,0,0,10/21/14,2,10,3
+10/20/14,2,2,B11,Westside Beltline (Southbound),6,72,0,12,0,0,0,0,10/20/14,1,10,3
+10/20/14,2,1,B11,Westside Beltline (Northbound),2,72,0,12,0,0,0,0,10/20/14,1,10,3
+10/19/14,2,1,B11,Westside Beltline (Northbound),6,71,0,12,0,0,0,0,10/19/14,0,10,3
+10/19/14,2,2,B11,Westside Beltline (Southbound),3,71,0,12,0,0,0,0,10/19/14,0,10,3
+10/18/14,2,1,B11,Westside Beltline (Northbound),6,73,0,21,0,0,0,0,10/18/14,6,10,3
+10/18/14,2,2,B11,Westside Beltline (Southbound),2,73,0,21,0,0,0,0,10/18/14,6,10,3
+5/22/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),28,86,0,20,0,0,0,0,5/22/14,4,5,1
+5/22/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),28,86,0,20,0,0,0,0,5/22/14,4,5,1
+5/21/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),233,86,0,17,0,0,0,0,5/21/14,3,5,1
+5/21/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),170,86,0,17,0,0,0,0,5/21/14,3,5,1
+5/20/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),172,83,0,14,0,0,0,0,5/20/14,2,5,1
+5/20/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),200,83,0,14,0,0,0,0,5/20/14,2,5,1
+5/19/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),248,71,0,7,0,1,0,0,5/19/14,1,5,1
+5/19/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),223,71,0,7,0,1,0,0,5/19/14,1,5,1
+5/18/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),135,62,0.89,8,1,0,0,0,5/18/14,0,5,1
+5/18/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),152,62,0.89,8,1,0,0,0,5/18/14,0,5,1
+5/17/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),271,69,T,14,1,0,0,0,5/17/14,6,5,1
+5/17/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),280,69,T,14,1,0,0,0,5/17/14,6,5,1
+5/16/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),182,70,0,22,0,0,0,0,5/16/14,5,5,1
+5/16/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),262,70,0,22,0,0,0,0,5/16/14,5,5,1
+5/15/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),145,66,0.15,20,1,0,0,0,5/15/14,4,5,1
+5/15/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),94,66,0.15,20,1,0,0,0,5/15/14,4,5,1
+5/14/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),139,82,0.84,18,1,0,0,0,5/14/14,3,5,1
+5/14/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),92,82,0.84,18,1,0,0,0,5/14/14,3,5,1
+5/13/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),142,86,0,13,0,0,0,0,5/13/14,2,5,1
+5/13/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),97,86,0,13,0,0,0,0,5/13/14,2,5,1
+4/30/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),85,72,0.05,25,1,0,0,0,4/30/14,3,4,1
+4/30/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),11,72,0.05,25,1,0,0,0,4/30/14,3,4,1
+4/29/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),88,76,0.36,28,1,0,0,1,4/29/14,2,4,1
+4/29/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),15,76,0.36,28,1,0,0,1,4/29/14,2,4,1
+4/28/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),92,80,0,17,0,0,0,0,4/28/14,1,4,1
+4/28/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),39,80,0,17,0,0,0,0,4/28/14,1,4,1
+4/27/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),95,83,0.17,22,1,0,0,1,4/27/14,0,4,1
+4/27/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),41,83,0.17,22,1,0,0,1,4/27/14,0,4,1
+4/26/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),135,80,0,10,0,0,0,0,4/26/14,6,4,1
+4/26/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),401,80,0,10,0,0,0,0,4/26/14,6,4,1
+4/25/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),279,77,0,23,0,0,0,0,4/25/14,5,4,1
+4/25/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),86,77,0,23,0,0,0,0,4/25/14,5,4,1
+4/24/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),334,79,0,13,0,0,0,0,4/24/14,4,4,1
+4/24/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),107,79,0,13,0,0,0,0,4/24/14,4,4,1
+4/23/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),334,76,0.01,18,0,0,0,0,4/23/14,3,4,1
+4/23/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),97,76,0.01,18,0,0,0,0,4/23/14,3,4,1
+4/22/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),30,70,0.08,15,1,0,0,0,4/22/14,2,4,1
+4/22/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),0,70,0.08,15,1,0,0,0,4/22/14,2,4,1
+4/21/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),0,77,0,10,0,0,0,0,4/21/14,1,4,1
+4/21/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),56,77,0,10,0,0,0,0,4/21/14,1,4,1
+4/20/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),20,74,0,15,0,0,0,0,4/20/14,0,4,1
+4/20/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),0,74,0,15,0,0,0,0,4/20/14,0,4,1
+4/19/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),0,61,0.11,18,1,0,0,0,4/19/14,6,4,1
+4/19/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),9,61,0.11,18,1,0,0,0,4/19/14,6,4,1
+4/18/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),0,57,0.92,14,1,0,0,0,4/18/14,5,4,1
+4/18/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),14,57,0.92,14,1,0,0,0,4/18/14,5,4,1
+4/17/14,2,2,ABC10,10th St between Argonne and Myrtle (Westbound),89,65,0,15,0,0,0,0,4/17/14,4,4,1
+4/17/14,2,1,ABC10,10th St between Argonne and Myrtle (Eastbound),278,65,0,15,0,0,0,0,4/17/14,4,4,1
+11/15/13,2,4,ABC5,Edgewood Ave & Krog St.,37,51,0.26,8,1,0,0,0,11/15/13,5,11,3
+10/11/13,2,4,ABC7,BeltLine & Monroe (near 10th Street Cycle Track),108,79,0,17,0,0,0,0,10/11/13,5,10,3
+9/23/13,2,4,ABC8,5th St & W Peachtree (Bike box @ GT),118,80,0,12,0,0,0,0,9/23/13,1,9,3
+9/23/13,2,4,ABC6,Clairemont Ave. & Michigan Ave. (P.M.),28,80,0,12,0,0,0,0,9/23/13,1,9,3
+9/12/13,2,4,ABC1,Piedmont & Decatur St.,63,90,0,15,0,0,0,0,9/12/13,4,9,3
+9/11/13,2,1,ABC9,10th St. Cycle Track (West Bound),21,89,0,6,0,0,0,0,9/11/13,3,9,3
+9/11/13,2,2,ABC9,10th St. Cycle Track (East Bound),32,89,0,6,0,0,0,0,9/11/13,3,9,3
+9/10/13,2,1,ABC9,10th St. Cycle Track (West Bound),66,88,0,9,0,0,0,0,9/10/13,2,9,3
+9/10/13,2,4,ABC6,Clairemont Ave. & Michigan Ave. (A.M.),15,88,0,9,0,0,0,0,9/10/13,2,9,3
+9/10/13,2,2,ABC9,10th St. Cycle Track (East Bound),211,88,0,9,0,0,0,0,9/10/13,2,9,3
+9/9/13,2,1,ABC9,10th St. Cycle Track (West Bound),46,89,0,8,0,0,0,0,9/9/13,1,9,3
+9/9/13,2,2,ABC9,10th St. Cycle Track (East Bound),189,89,0,8,0,0,0,0,9/9/13,1,9,3
+9/8/13,2,2,ABC9,10th St. Cycle Track (East Bound),512,90,0,15,0,0,0,0,9/8/13,0,9,3
+9/8/13,2,1,ABC9,10th St. Cycle Track (West Bound),308,90,0,15,0,0,0,0,9/8/13,0,9,3
+9/7/13,2,2,ABC9,10th St. Cycle Track (East Bound),410,88,0,7,0,0,0,0,9/7/13,6,9,3
+9/7/13,2,1,ABC9,10th St. Cycle Track (West Bound),215,88,0,7,0,0,0,0,9/7/13,6,9,3
+9/6/13,2,2,ABC9,10th St. Cycle Track (East Bound),191,87,0,10,0,0,0,0,9/6/13,5,9,3
+9/6/13,2,1,ABC9,10th St. Cycle Track (West Bound),65,87,0,10,0,0,0,0,9/6/13,5,9,3
+9/5/13,2,2,ABC9,10th St. Cycle Track (East Bound),162,88,0,9,0,0,0,0,9/5/13,4,9,3
+9/5/13,2,1,ABC9,10th St. Cycle Track (West Bound),67,88,0,9,0,0,0,0,9/5/13,4,9,3
+9/4/13,2,1,ABC9,10th St. Cycle Track (West Bound),50,89,0,8,0,0,0,0,9/4/13,3,9,3
+9/4/13,2,2,ABC9,10th St. Cycle Track (East Bound),152,89,0,8,0,0,0,0,9/4/13,3,9,3
+9/3/13,2,2,ABC9,10th St. Cycle Track (East Bound),116,89,0.01,13,0,0,0,0,9/3/13,2,9,3
+9/3/13,2,1,ABC9,10th St. Cycle Track (West Bound),36,89,0.01,13,0,0,0,0,9/3/13,2,9,3
+9/2/13,2,1,ABC9,10th St. Cycle Track (West Bound),216,81,0.25,16,1,0,0,0,9/2/13,1,9,3
+9/2/13,2,2,ABC9,10th St. Cycle Track (East Bound),213,81,0.25,16,1,0,0,0,9/2/13,1,9,3
+9/1/13,2,1,ABC9,10th St. Cycle Track (West Bound),251,86,0.44,29,1,1,0,1,9/1/13,0,9,3
+9/1/13,2,2,ABC9,10th St. Cycle Track (East Bound),232,86,0.44,29,1,1,0,1,9/1/13,0,9,3
+8/31/13,2,2,ABC9,10th St. Cycle Track (East Bound),234,91,0.05,18,1,0,0,0,8/31/13,6,8,2
+8/31/13,2,1,ABC9,10th St. Cycle Track (West Bound),201,91,0.05,18,1,0,0,0,8/31/13,6,8,2
+8/30/13,2,2,ABC9,10th St. Cycle Track (East Bound),152,86,0,8,0,0,0,0,8/30/13,5,8,2
+8/30/13,2,1,ABC9,10th St. Cycle Track (West Bound),91,86,0,8,0,0,0,0,8/30/13,5,8,2
+8/29/13,2,1,ABC9,10th St. Cycle Track (West Bound),80,92,0,15,0,0,0,0,8/29/13,4,8,2
+8/29/13,2,2,ABC9,10th St. Cycle Track (East Bound),139,92,0,15,0,0,0,0,8/29/13,4,8,2
+8/28/13,2,1,ABC9,10th St. Cycle Track (West Bound),72,91,0,10,0,0,0,0,8/28/13,3,8,2
+8/28/13,2,2,ABC9,10th St. Cycle Track (East Bound),176,91,0,10,0,0,0,0,8/28/13,3,8,2
+8/27/13,2,2,ABC9,10th St. Cycle Track (East Bound),193,87,0,9,0,0,0,0,8/27/13,2,8,2
+8/27/13,2,1,ABC9,10th St. Cycle Track (West Bound),89,87,0,9,0,0,0,0,8/27/13,2,8,2
+3/26/13,2,4,85,Fowler Street @ 10th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,16,Peachtree Street @ 6th Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,41,West Peachtree Street @ North Avenue,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,6,Peachtree Street @ 16th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,83,Crescent Avenue @ 14th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,59,Juniper Street @ 10th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,74,Piedmont Avenue @ 5th Street,34,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,62,Juniper Street @ 6th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,71,Piedmont Avenue @ Pine Street,77,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,71,Piedmont Avenue @ Pine Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,63,Juniper Street @ 5th Street,15,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,28,Spring Street @ 14th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,97,Monroe Drive @ Amsterdam Avenue,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,79,Piedmont Avenue @ 14th Street,14,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,66,Juniper Street @ North Avenue,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,5,Peachtree Street @ 17th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,58,Juniper Street @ 11th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,61,Juniper Street @ 7th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,39,West Peachtree Street @ Pine Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,89,Monroe Drive @ 10th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,89,Monroe Drive @ 10th Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,75,Piedmont Avenue @ 7th Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,93,Myrtle Street @ Ponce de Leon Avenue,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,8,Peachtree Street @ 15th Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,79,Piedmont Avenue @ 14th Street,52,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,76,Piedmont Avenue @ 8th Street,9,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,36,Spring Street @ North Avenue,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,6,Peachtree Street @ 16th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,96,Monroe Drive @ Park Drive,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,9,Peachtree Street @ 14th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,25,Spring Street @ 18th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,3,Peachtree Street @ Peachtree Circle,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,24,Spring Street @ S Rhodes Center,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,100,Monroe Drive @ 8th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,30,Spring Street @ 10th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,97,Monroe Drive @ Amsterdam Avenue,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,82,Williams Street @ 14th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,1,Peachtree Street @ Buford Hwy Connector,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,96,Monroe Drive @ Park Drive,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,80,Piedmont Avenue @ The Prado,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,63,Juniper Street @ 5th Street,45,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,69,Juniper Street @ Currier Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,26,Spring Street @ 17th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,15,Peachtree Street @ 7th Street,29,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,88,Charles Allen Drive @ 10th Street,24,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,93,Myrtle Street @ Ponce de Leon Avenue,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,39,West Peachtree Street @ Pine Street,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,15,Peachtree Street @ 7th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,13,Peachtree Street @ Peachtree Place,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,60,Juniper Street @ 8th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,31,Spring Street @ 8th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,14,Peachtree Street @ 8th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,61,Juniper Street @ 7th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,32,Spring Street @ Abercrombie Place,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,46,West Peachtree Street @ 8th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,84,Holly Street @ 10th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,47,West Peachtree Street @ Peachtree Place,14,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,72,Piedmont Avenue @ North Avenue,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,70,Piedmont Avenue @ Currier Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,100,Monroe Drive @ 8th Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,22,Peachtree Street @ Linden Avenue,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,10,Peachtree Street @ 12th Street,11,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,46,West Peachtree Street @ 8th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,100,Monroe Drive @ 8th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,75,Piedmont Avenue @ 7th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,21,Peachtree Street @ North Avenue,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,15,Peachtree Street @ 7th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,33,Spring Street @ 5th Street,59,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,24,Spring Street @ S Rhodes Center,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,26,Spring Street @ 17th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,97,Monroe Drive @ Amsterdam Avenue,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,90,Techwood Drive @ North Avenue,18,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,37,Spring Street @ Linden Avenue,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,61,Juniper Street @ 7th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,45,West Peachtree Street @ 6th Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,30,Spring Street @ 10th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,78,Piedmont Avenue @ 12th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,47,West Peachtree Street @ Peachtree Place,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,11,Peachtree Street @ 11th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,39,West Peachtree Street @ Pine Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,82,Williams Street @ 14th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,99,Monroe Drive @ Dutch Valley Road,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,13,Peachtree Street @ Peachtree Place,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,87,Williams Street @ 10th Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,64,Juniper Street @ 3rd Street,9,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,43,West Peachtree Street @ 3rd Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,3,Peachtree Street @ Peachtree Circle,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,42,West Peachtree Street @ Ponce de Leon Avenue,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,78,Piedmont Avenue @ 12th Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,7,Peachtree Street @ Boys & Girls Club,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,44,West Peachtree Street @ 5th Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,62,Juniper Street @ 6th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,49,West Peachtree Street @ 11th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,25,Spring Street @ 18th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,9,Peachtree Street @ 14th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,75,Piedmont Avenue @ 7th Street,70,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,60,Juniper Street @ 8th Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,28,Spring Street @ 14th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,45,West Peachtree Street @ 6th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,11,Peachtree Street @ 11th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,77,Piedmont Avenue @ 10th Street,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,18,Peachtree Street @ 4th Street,18,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,88,Charles Allen Drive @ 10th Street,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,69,Juniper Street @ Currier Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,10,Peachtree Street @ 12th Street,35,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,21,Peachtree Street @ North Avenue,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,40,West Peachtree Street @ Linden Avenue,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,20,Peachtree Street @ Ponce de Leon Avenue,14,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,34,Spring Street @ Armstead Place,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,98,Monroe Drive @ Evelyn Street/Worcester Drive,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,8,Peachtree Street @ 15th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,76,Piedmont Avenue @ 8th Street,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,57,Juniper Street @ 12th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,4,Peachtree Street @ West Peachtree Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,18,Peachtree Street @ 4th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,32,Spring Street @ Abercrombie Place,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,35,Spring Street @ Ponce de Leon Avenue,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,91,Williams Street @ North Avenue,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,94,Argonne Avenue @ Ponce de Leon Avenue,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,46,West Peachtree Street @ 8th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,52,West Peachtree Street @ 15th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,84,Holly Street @ 10th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,29,Spring Street @ 12th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,71,Piedmont Avenue @ Pine Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,17,Peachtree Street @ 5th Street,40,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,17,Peachtree Street @ 5th Street,53,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,87,Williams Street @ 10th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,76,Piedmont Avenue @ 8th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,5,Peachtree Street @ 17th Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,48,West Peachtree Street @ 10th Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,16,Peachtree Street @ 6th Street,23,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,44,West Peachtree Street @ 5th Street,47,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,50,West Peachtree Street @ 12th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,59,Juniper Street @ 10th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,27,Spring Street @ 16th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,11,Peachtree Street @ 11th Street,69,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,83,Crescent Avenue @ 14th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,59,Juniper Street @ 10th Street,9,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,44,West Peachtree Street @ 5th Street,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,1,Peachtree Street @ Buford Hwy Connector,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,72,Piedmont Avenue @ North Avenue,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,13,Peachtree Street @ Peachtree Place,52,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,94,Argonne Avenue @ Ponce de Leon Avenue,9,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,72,Piedmont Avenue @ North Avenue,71,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,2,Peachtree Street @ Spring Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,92,Argonne Avenue @ North Avenue,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,51,West Peachtree Street @ 14th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,93,Myrtle Street @ Ponce de Leon Avenue,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,20,Peachtree Street @ Ponce de Leon Avenue,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,60,Juniper Street @ 8th Street,11,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,83,Crescent Avenue @ 14th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,6,Peachtree Street @ 16th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,34,Spring Street @ Armstead Place,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,1,Peachtree Street @ Buford Hwy Connector,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,81,Techwood Drive @ 14th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,68,Juniper Street @ Pine Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,20,Peachtree Street @ Ponce de Leon Avenue,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,33,Spring Street @ 5th Street,52,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,19,Peachtree Street @ 3rd Street,14,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,22,Peachtree Street @ Linden Avenue,17,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,64,Juniper Street @ 3rd Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,73,Piedmont Avenue @ Ponce de Leon Avenue,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,98,Monroe Drive @ Evelyn Street/Worcester Drive,5,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,89,Monroe Drive @ 10th Street,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,23,Peachtree Street @ Pine Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,80,Piedmont Avenue @ The Prado,58,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,92,Argonne Avenue @ North Avenue,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,17,Peachtree Street @ 5th Street,47,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,10,Peachtree Street @ 12th Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,99,Monroe Drive @ Dutch Valley Road,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,94,Argonne Avenue @ Ponce de Leon Avenue,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,7,Peachtree Street @ Boys & Girls Club,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,55,West Peachtree Street @ 18th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,63,Juniper Street @ 5th Street,42,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,86,Techwood Drive @ 10th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,41,West Peachtree Street @ North Avenue,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,48,West Peachtree Street @ 10th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,23,Peachtree Street @ Pine Street,9,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,38,Spring Street @ Pine Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,30,Spring Street @ 10th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,90,Techwood Drive @ North Avenue,17,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,43,West Peachtree Street @ 3rd Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,82,Williams Street @ 14th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,96,Monroe Drive @ Park Drive,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,33,Spring Street @ 5th Street,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,73,Piedmont Avenue @ Ponce de Leon Avenue,75,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,74,Piedmont Avenue @ 5th Street,78,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,64,Juniper Street @ 3rd Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,16,Peachtree Street @ 6th Street,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,4,Peachtree Street @ West Peachtree Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,31,Spring Street @ 8th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,23,Peachtree Street @ Pine Street,15,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,42,West Peachtree Street @ Ponce de Leon Avenue,6,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,2,Peachtree Street @ Spring Street,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,84,Holly Street @ 10th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,49,West Peachtree Street @ 11th Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,47,West Peachtree Street @ Peachtree Place,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,54,West Peachtree Street @ 17th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,56,Juniper Street @ 14th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,92,"Counts!B2=VLOOKUP(A2,",8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,77,Piedmont Avenue @ 10th Street,78,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,67,Juniper Street @ Linden Avenue,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,18,Peachtree Street @ 4th Street,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,38,Spring Street @ Pine Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,29,Spring Street @ 12th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,70,Piedmont Avenue @ Currier Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,68,Juniper Street @ Pine Street,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,22,Peachtree Street @ Linden Avenue,21,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,70,Piedmont Avenue @ Currier Street,71,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,27,Spring Street @ 16th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,80,Piedmont Avenue @ The Prado,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,81,Techwood Drive @ 14th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,98,Monroe Drive @ Evelyn Street/Worcester Drive,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,66,Juniper Street @ North Avenue,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,3,Peachtree Street @ Peachtree Circle,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,21,Peachtree Street @ North Avenue,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,14,Peachtree Street @ 8th Street,23,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,9,Peachtree Street @ 14th Street,21,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,26,Spring Street @ 17th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,73,Piedmont Avenue @ Ponce de Leon Avenue,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,45,West Peachtree Street @ 6th Street,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,40,West Peachtree Street @ Linden Avenue,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,90,Techwood Drive @ North Avenue,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,41,West Peachtree Street @ North Avenue,13,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,12,Peachtree Street @ 10th Street,63,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,14,Peachtree Street @ 8th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,85,Fowler Street @ 10th Street,3,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,2,Peachtree Street @ Spring Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,81,Techwood Drive @ 14th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,8,Peachtree Street @ 15th Street,20,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,37,Spring Street @ Linden Avenue,1,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,65,Juniper Street @ Ponce de Leon Avenue,8,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,79,Piedmont Avenue @ 14th Street,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,74,Piedmont Avenue @ 5th Street,52,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,78,Piedmont Avenue @ 12th Street,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,12,Peachtree Street @ 10th Street,7,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,5,Peachtree Street @ 17th Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,88,Charles Allen Drive @ 10th Street,18,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,53,West Peachtree Street @ 16th Street,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,24,Spring Street @ S Rhodes Center,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,95,Durant Place @ Ponce de Leon Avenue,0,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,91,Williams Street @ North Avenue,4,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,19,Peachtree Street @ 3rd Street,12,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,65,Juniper Street @ Ponce de Leon Avenue,2,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,19,Peachtree Street @ 3rd Street,10,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,12,Peachtree Street @ 10th Street,16,42,0,17,0,0,0,0,3/26/13,2,3,1
+3/26/13,2,4,4,Peachtree Street @ West Peachtree Street,5,42,0,17,0,0,0,0,3/26/13,2,3,1
