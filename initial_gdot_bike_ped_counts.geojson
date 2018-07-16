@@ -6511,7 +6511,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.14369785631,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -7123,7 +7124,8 @@
         "Snippet": null,
         "PopupInfo": "",
         "Shape_Leng": 0.2413164691,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -8080,7 +8082,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.165978776896,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -8677,7 +8680,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.182282463721,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -9264,7 +9268,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.228279786635,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -10581,7 +10586,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.110382393287,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -10843,7 +10849,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.0511889045941,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -10965,7 +10972,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.0522275754438,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -11302,7 +11310,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.550762853972,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -11779,7 +11788,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.167433290311,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -12201,7 +12211,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.150845625163,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -12358,7 +12369,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.160762853871,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -12565,7 +12577,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.0787365986059,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -12657,7 +12670,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.284449348038,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -13119,7 +13133,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.114408591573,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -13411,7 +13426,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.230155524935,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -13983,7 +13999,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.218053118721,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -14630,7 +14647,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.125424509344,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -14882,7 +14900,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.243939360069,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15114,7 +15133,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.230286233824,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15461,7 +15481,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.064702256495,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15583,7 +15604,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.11021816475,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15655,7 +15677,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.126587485542,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15767,7 +15790,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.276448375701,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15979,7 +16003,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.157390080115,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16341,7 +16366,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.197852467769,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16598,7 +16624,8 @@
         "Snippet": null,
         "PopupInfo": null,
         "Shape_Leng": 0.35840250003,
-        "description": "RTOP 2015"
+        "description": "RTOP 2015",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16756,7 +16783,8 @@
       "properties": {
         "description": "RTOP 2017",
         "Name": "SR 120W",
-        "Shape_Leng": ""
+        "Shape_Leng": "",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16817,7 +16845,8 @@
         "Snippet": "",
         "PopupInfo": "",
         "Shape_Leng": "",
-        "description": "RTOP 2017"
+        "description": "RTOP 2017",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16893,7 +16922,8 @@
       "type": "Feature",
       "properties": {
         "description": "RTOP 2017",
-        "Name": "SR 360W"
+        "Name": "SR 360W",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16966,7 +16996,8 @@
         "Snippet": "",
         "PopupInfo": "",
         "Shape_Leng": "",
-        "description": "RTOP 2017"
+        "description": "RTOP 2017",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -17094,7 +17125,8 @@
       "type": "Feature",
       "properties": {
         "description": "RTOP 217",
-        "Name": "SR 331"
+        "Name": "SR 331",
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
