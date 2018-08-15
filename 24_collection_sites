@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 155,
+        "County": "DeKalb",
+        "Location": "Rainbow Dr. (N) & Flat Shoals Rd. (S) ",
+        "RTOP_zone": 5,
+        "Name": "Flat Shoals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27214130759239,
+          33.70834303117229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "SR": 155,
+        "Infra": "PHB",
+        "RTOP_zone": 5,
+        "County": "DeKalb",
+        "Location": "Melville Ave. (N) & McAfee Rd. (S)",
+        "Name": "Candler_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28403154015541,
+          33.73278856161008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "County": "DeKalb",
+        "Location": "Memorial Dr. SE (N) & Alston Dr. SE (S)",
+        "RTOP_zone": "Candler_1",
+        "Name": 5,
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29143812507391,
+          33.745713768360645
+        ]
+      }
+    }
+  ]
+}
