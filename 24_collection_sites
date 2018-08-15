@@ -11,8 +11,9 @@
         "SR": 155,
         "County": "DeKalb",
         "Location": "Rainbow Dr. (N) & Flat Shoals Rd. (S) ",
-        "RTOP_zone": 5,
-        "Name": "Flat Shoals"
+        "Name": "Flat Shoals",
+        "Accuracy": "100%",
+        "RTOP_Zone": 5
       },
       "geometry": {
         "type": "Point",
@@ -30,10 +31,11 @@
         "marker-symbol": "circle",
         "SR": 155,
         "Infra": "PHB",
-        "RTOP_zone": 5,
         "County": "DeKalb",
         "Location": "Melville Ave. (N) & McAfee Rd. (S)",
-        "Name": "Candler_0"
+        "Name": "Candler_0",
+        "Accuracy": "100%",
+        "RTOP_Zone": 5
       },
       "geometry": {
         "type": "Point",
@@ -48,19 +50,108 @@
       "properties": {
         "County": "DeKalb",
         "Location": "Memorial Dr. SE (N) & Alston Dr. SE (S)",
-        "RTOP_zone": "Candler_1",
-        "Name": 5,
+        "Name": "Candler_1",
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "Infra": "PHB",
-        "SR": 155
+        "SR": 155,
+        "Accuracy": "100%",
+        "RTOP_Zone": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.29143812507391,
           33.745713768360645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 23,
+        "County": "DeKalb",
+        "Location": "Clairmont Run (N) & Maediris Dr. (S)",
+        "Name": "Clairmont",
+        "Accuracy": "50%",
+        "RTOP_Zone": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30662982165813,
+          33.78725032116236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "County": "Fulton",
+        "Infra": "PHB",
+        "SR": 78,
+        "Location": "Marietta St. NW (W) & Techwood Dr. (E)  ",
+        "Name": "North Ave",
+        "Accuracy": 7,
+        "RTOP_Zone": "50%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39896017313004,
+          33.7712369947876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 78,
+        "County": "Fulton",
+        "Location": "Somerset Terrace NE (W) & Bonaventure Ave. NE (E)",
+        "Name": "Ponce De Leon Ave",
+        "Accuracy": 5,
+        "RTOP_Zone": "50%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36210997402668,
+          33.77381885909043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 120,
+        "County": "Cobb",
+        "Location": "Fairground St. (W) & Aviation Rd. SE (E) ",
+        "Name": "S. Marietta Pkwy SE",
+        "Accuracy": 2,
+        "RTOP_Zone": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53282922506332,
+          33.942912693536044
         ]
       }
     }
