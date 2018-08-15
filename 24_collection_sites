@@ -10,10 +10,10 @@
         "Infra": "PHB",
         "SR": 155,
         "County": "DeKalb",
-        "Location": "Rainbow Dr. (N) & Flat Shoals Rd. (S) ",
-        "Name": "Flat Shoals",
         "Accuracy": "100%",
-        "RTOP_Zone": 5
+        "RTOP_Zone": 5,
+        "Street_Name": "Flat Shoals",
+        "Nearest_Location": "Rainbow Dr. (N) & Flat Shoals Rd. (S) "
       },
       "geometry": {
         "type": "Point",
@@ -32,10 +32,10 @@
         "SR": 155,
         "Infra": "PHB",
         "County": "DeKalb",
-        "Location": "Melville Ave. (N) & McAfee Rd. (S)",
-        "Name": "Candler_0",
         "Accuracy": "100%",
-        "RTOP_Zone": 5
+        "RTOP_Zone": 5,
+        "Street_Name": "Candler_0",
+        "Nearest_Location": "Melville Ave. (N) & McAfee Rd. (S)"
       },
       "geometry": {
         "type": "Point",
@@ -49,15 +49,15 @@
       "type": "Feature",
       "properties": {
         "County": "DeKalb",
-        "Location": "Memorial Dr. SE (N) & Alston Dr. SE (S)",
-        "Name": "Candler_1",
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "Infra": "PHB",
         "SR": 155,
         "Accuracy": "100%",
-        "RTOP_Zone": 5
+        "RTOP_Zone": 5,
+        "Street_Name": "Candler_1",
+        "Nearest_Location": "Memorial Dr. SE (N) & Alston Dr. SE (S)"
       },
       "geometry": {
         "type": "Point",
@@ -76,10 +76,10 @@
         "Infra": "PHB",
         "SR": 23,
         "County": "DeKalb",
-        "Location": "Clairmont Run (N) & Maediris Dr. (S)",
-        "Name": "Clairmont",
         "Accuracy": "50%",
-        "RTOP_Zone": 5
+        "RTOP_Zone": 5,
+        "Street_Name": "Clairmont",
+        "Nearest_Location": "Clairmont Run (N) & Maediris Dr. (S)"
       },
       "geometry": {
         "type": "Point",
@@ -98,10 +98,10 @@
         "County": "Fulton",
         "Infra": "PHB",
         "SR": 78,
-        "Location": "Marietta St. NW (W) & Techwood Dr. (E)  ",
-        "Name": "North Ave",
-        "Accuracy": 7,
-        "RTOP_Zone": "50%"
+        "Accuracy": "50%",
+        "RTOP_Zone": 7,
+        "Street_Name": "North Ave. ",
+        "Nearest_Location": "Marietta St. NW (W) & Techwood Dr. (E)  "
       },
       "geometry": {
         "type": "Point",
@@ -120,10 +120,10 @@
         "Infra": "PHB",
         "SR": 78,
         "County": "Fulton",
-        "Location": "Somerset Terrace NE (W) & Bonaventure Ave. NE (E)",
-        "Name": "Ponce De Leon Ave",
-        "Accuracy": 5,
-        "RTOP_Zone": "50%"
+        "Accuracy": "50%",
+        "RTOP_Zone": 5,
+        "Street_Name": "Ponce De Leon Ave.",
+        "Nearest_Location": "Somerset Terrace NE (W) & Bonaventure Ave. NE (E)"
       },
       "geometry": {
         "type": "Point",
@@ -142,10 +142,10 @@
         "Infra": "PHB",
         "SR": 120,
         "County": "Cobb",
-        "Location": "Fairground St. (W) & Aviation Rd. SE (E) ",
-        "Name": "S. Marietta Pkwy SE",
-        "Accuracy": 2,
-        "RTOP_Zone": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": 2,
+        "Street_Name": "S. Marietta Pkwy SE",
+        "Nearest_Location": "Fairground St. (W) & Aviation Rd. SE (E) "
       },
       "geometry": {
         "type": "Point",
@@ -164,10 +164,10 @@
         "Infra": "PHB",
         "SR": 280,
         "County": "Cobb",
-        "Location": "Plaza Dr. (N) & Pinehill Dr. (s)",
-        "Name": "S. Cobb Pkwy",
-        "Accuracy": 2,
-        "RTOP_Zone": "50%"
+        "Accuracy": "50%",
+        "RTOP_Zone": 2,
+        "Street_Name": "S. Cobb Pkwy",
+        "Nearest_Location": "Plaza Dr. (N) & Pinehill Dr. (s)"
       },
       "geometry": {
         "type": "Point",
@@ -186,10 +186,10 @@
         "Infra": "PHB",
         "SR": 13,
         "County": "DeKalb",
-        "Location": "Briarwood Rd. (N) & N. Cliff Valley Way (S) ",
-        "Name": "Buford Hwy",
-        "Accuracy": 1,
-        "RTOP_Zone": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": 1,
+        "Street_Name": "Buford Hwy",
+        "Nearest_Location": "Briarwood Rd. (N) & N. Cliff Valley Way (S) "
       },
       "geometry": {
         "type": "Point",
@@ -208,10 +208,10 @@
         "Infra": "PHB",
         "SR": 13,
         "County": "DeKalb",
-        "Location": "Lenox Overlook Rd. (N) & Briarwood Rd. (S) ",
-        "Name": "Buford Hwy",
-        "Accuracy": 1,
-        "RTOP_Zone": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": 1,
+        "Street_Name": "Buford Hwy",
+        "Nearest_Location": "Lenox Overlook Rd. (N) & Briarwood Rd. (S) "
       },
       "geometry": {
         "type": "Point",
@@ -230,10 +230,10 @@
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
-        "Location": "Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) ",
-        "Name": "Decatur St",
-        "Accuracy": "",
-        "RTOP_Zone": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": "",
+        "Street_Name": "Decatur St. SE",
+        "Nearest_Location": "Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) "
       },
       "geometry": {
         "type": "Point",
@@ -252,10 +252,10 @@
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
-        "Location": "Cascade Ave. SW (N) & Hopkins St. SW",
-        "Name": "White St SE",
-        "Accuracy": "",
-        "RTOP_Zone": "50%"
+        "Accuracy": "50%",
+        "RTOP_Zone": "",
+        "Street_Name": "White St. SE",
+        "Nearest_Location": "Cascade Ave. SW (N) & Hopkins St. SW"
       },
       "geometry": {
         "type": "Point",
@@ -271,13 +271,13 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "Location": "@ Hembree Rd.",
         "Infra": "RRFB",
         "SR": 140,
         "County": "Fulton",
-        "Name": "Houze Rd. Roundabout",
-        "Accuracy": "",
-        "RTOP_Zone": "50%"
+        "Accuracy": "50%",
+        "RTOP_Zone": "",
+        "Street_Name": "Houze Rd. Roundabout",
+        "Nearest_Location": "@ Hembree Rd."
       },
       "geometry": {
         "type": "Point",
@@ -296,10 +296,10 @@
         "Infra": "RRFB",
         "SR": "",
         "County": "Gwinnett",
-        "Location": "Peeler Rd. (N) & Peachtree Industrial (s)",
-        "Name": "Winters Chapel Rd.",
-        "Accuracy": "",
-        "RTOP_Zone": "25%"
+        "Accuracy": "25%",
+        "RTOP_Zone": "",
+        "Street_Name": "Winters Chapel Rd.",
+        "Nearest_Location": "Peeler Rd. (N) & Peachtree Industrial (s)"
       },
       "geometry": {
         "type": "Point",
@@ -318,16 +318,59 @@
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
-        "Location": "@ Malone Dr. ",
-        "Name": "Peachtree Rd. ",
-        "Accuracy": "",
-        "RTOP_Zone": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": "",
+        "Street_Name": "Peachtree Rd. ",
+        "Nearest_Location": "@ Malone Dr. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.3067055940628,
           33.88814427703094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Fulton",
+        "Accuracy": "100%",
+        "RTOP_Zone": "",
+        "Street_Name": "Peachtree Rd. ",
+        "Nearest_Location": "Miller Dr. (W) & Pierce Dr. (E) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.30423460900784,
+          33.889385584084636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Gwinnett",
+        "Street_Name": "Norcross Tucker Rd. ",
+        "Nearest_Location": "Near Sparrows Ln NW.",
+        "Accuracy": "25%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20843213796616,
+          33.89798183546509
         ]
       }
     }
