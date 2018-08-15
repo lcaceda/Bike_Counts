@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 155,
         "County": "DeKalb",
@@ -28,7 +28,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "SR": 155,
         "Infra": "PHB",
         "County": "DeKalb",
@@ -51,7 +51,7 @@
         "County": "DeKalb",
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 155,
         "Accuracy": "100%",
@@ -72,7 +72,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 23,
         "County": "DeKalb",
@@ -94,7 +94,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "County": "Fulton",
         "Infra": "PHB",
         "SR": 78,
@@ -116,7 +116,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 78,
         "County": "Fulton",
@@ -138,7 +138,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 120,
         "County": "Cobb",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 280,
         "County": "Cobb",
@@ -182,7 +182,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 13,
         "County": "DeKalb",
@@ -204,7 +204,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "p",
         "Infra": "PHB",
         "SR": 13,
         "County": "DeKalb",
@@ -226,7 +226,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
@@ -248,7 +248,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
@@ -270,7 +270,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": 140,
         "County": "Fulton",
@@ -292,7 +292,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Gwinnett",
@@ -314,7 +314,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
@@ -336,7 +336,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
@@ -358,7 +358,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Gwinnett",
@@ -379,14 +379,14 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "r",
         "Infra": "RRFB",
         "SR": "",
         "County": "Fulton",
-        "Accuracy": "",
-        "RTOP_Zone": "10th St.",
-        "Street_Name": "West Peachtree",
-        "Nearest_Location": "90%"
+        "Accuracy": "90%",
+        "RTOP_Zone": "",
+        "Street_Name": "10th St.",
+        "Nearest_Location": "West Peachtree"
       },
       "geometry": {
         "type": "Point",
@@ -401,14 +401,14 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "t",
         "Infra": "Traffic Signal",
         "SR": 140,
         "County": "Gwinnett",
-        "Accuracy": 6,
-        "RTOP_Zone": "Jimmy Carter Blvd.",
-        "Street_Name": "Dawson Rd./Live Oak ",
-        "Nearest_Location": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": 6,
+        "Street_Name": "Jimmy Carter Blvd.",
+        "Nearest_Location": "Dawson Rd./Live Oak "
       },
       "geometry": {
         "type": "Point",
@@ -423,14 +423,14 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
-        "RTOP_Zone": "Jimmy Carter Blvd.",
-        "Street_Name": "Hayes Dr.",
-        "Nearest_Location": "100%",
+        "marker-symbol": "t",
+        "RTOP_Zone": 6,
+        "Street_Name": "Jimmy Carter Blvd.",
+        "Nearest_Location": "Hayes Dr.",
         "Infra": "Traffic Signal",
         "SR": 140,
         "County": "Gwinnett",
-        "Accuracy": 6
+        "Accuracy": "100%"
       },
       "geometry": {
         "type": "Point",
@@ -445,20 +445,85 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "t",
         "Infra": "Traffic Signal",
         "SR": 140,
         "County": "Gwinnett",
-        "Accuracy": 6,
-        "RTOP_Zone": "Jimmy Carter Blvd.",
-        "Street_Name": "Norcross Tucker Rd./Singleton Rd.",
-        "Nearest_Location": "100%"
+        "Accuracy": "100%",
+        "RTOP_Zone": 6,
+        "Street_Name": "Jimmy Carter Blvd.",
+        "Nearest_Location": "Norcross Tucker Rd./Singleton Rd."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.20534491539001,
           33.902124914702696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "t",
+        "Infra": "Traffic Signal",
+        "SR": "41/19",
+        "County": "Fulton",
+        "Accuracy": "100%",
+        "RTOP_Zone": 4,
+        "Street_Name": "Northside Dr.",
+        "Nearest_Location": "Mitchell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40282054245472,
+          33.754643092851076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "p",
+        "Infra": "PHB",
+        "SR": "",
+        "County": "Fulton",
+        "Accuracy": "100%",
+        "RTOP_Zone": "",
+        "Street_Name": "10th St.",
+        "Nearest_Location": "Argonne Ave. NE & Taft Ave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37648594379425,
+          33.78179472298133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "p",
+        "RTOP_Zone": "",
+        "Street_Name": "Decatur St.",
+        "Nearest_Location": "Collins St. & Piedmont Ave.",
+        "Accuracy": "100%",
+        "County": "Fulton",
+        "Infra": "PHB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38577175140381,
+          33.7517211141198
         ]
       }
     }
