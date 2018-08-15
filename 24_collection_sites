@@ -154,6 +154,182 @@
           33.942912693536044
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 280,
+        "County": "Cobb",
+        "Location": "Plaza Dr. (N) & Pinehill Dr. (s)",
+        "Name": "S. Cobb Pkwy",
+        "Accuracy": 2,
+        "RTOP_Zone": "50%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5338726043701,
+          33.8821556908565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 13,
+        "County": "DeKalb",
+        "Location": "Briarwood Rd. (N) & N. Cliff Valley Way (S) ",
+        "Name": "Buford Hwy",
+        "Accuracy": 1,
+        "RTOP_Zone": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32867087423801,
+          33.84299630417748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "PHB",
+        "SR": 13,
+        "County": "DeKalb",
+        "Location": "Lenox Overlook Rd. (N) & Briarwood Rd. (S) ",
+        "Name": "Buford Hwy",
+        "Accuracy": 1,
+        "RTOP_Zone": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32564534246922,
+          33.845713006618965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Fulton",
+        "Location": "Hilliard St. SE (W) & William Holmes Borders Senior Dr. SE (E) ",
+        "Name": "Decatur St",
+        "Accuracy": "",
+        "RTOP_Zone": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37537014484406,
+          33.75039640635459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Fulton",
+        "Location": "Cascade Ave. SW (N) & Hopkins St. SW",
+        "Name": "White St SE",
+        "Accuracy": "",
+        "RTOP_Zone": "50%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43123787641525,
+          33.73810285590992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Location": "@ Hembree Rd.",
+        "Infra": "RRFB",
+        "SR": 140,
+        "County": "Fulton",
+        "Name": "Houze Rd. Roundabout",
+        "Accuracy": "",
+        "RTOP_Zone": "50%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34644855558871,
+          34.06120362893089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Gwinnett",
+        "Location": "Peeler Rd. (N) & Peachtree Industrial (s)",
+        "Name": "Winters Chapel Rd.",
+        "Accuracy": "",
+        "RTOP_Zone": "25%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27106037735939,
+          33.941901358961786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Fulton",
+        "Location": "@ Malone Dr. ",
+        "Name": "Peachtree Rd. ",
+        "Accuracy": "",
+        "RTOP_Zone": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3067055940628,
+          33.88814427703094
+        ]
+      }
     }
   ]
 }
