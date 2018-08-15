@@ -373,6 +373,72 @@
           33.89798183546509
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "RRFB",
+        "SR": "",
+        "County": "Fulton",
+        "Accuracy": "",
+        "RTOP_Zone": "10th St.",
+        "Street_Name": "West Peachtree",
+        "Nearest_Location": "90%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3864121288061,
+          33.78147508961176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "Traffic Signal",
+        "SR": 140,
+        "County": "Gwinnett",
+        "Accuracy": 6,
+        "RTOP_Zone": "Jimmy Carter Blvd.",
+        "Street_Name": "Dawson Rd./Live Oak ",
+        "Nearest_Location": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20615762472153,
+          33.90735412384846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "RTOP_Zone": "Jimmy Carter Blvd.",
+        "Street_Name": "Hayes Dr.",
+        "Nearest_Location": "100%",
+        "Infra": "Traffic Signal",
+        "SR": 140,
+        "County": "Gwinnett",
+        "Accuracy": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20577675104141,
+          33.904602651485874
+        ]
+      }
     }
   ]
 }
