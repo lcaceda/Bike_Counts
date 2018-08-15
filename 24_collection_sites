@@ -439,6 +439,28 @@
           33.904602651485874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Infra": "Traffic Signal",
+        "SR": 140,
+        "County": "Gwinnett",
+        "Accuracy": 6,
+        "RTOP_Zone": "Jimmy Carter Blvd.",
+        "Street_Name": "Norcross Tucker Rd./Singleton Rd.",
+        "Nearest_Location": "100%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20534491539001,
+          33.902124914702696
+        ]
+      }
     }
   ]
 }
